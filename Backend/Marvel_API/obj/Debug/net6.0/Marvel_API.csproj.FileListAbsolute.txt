@@ -1,0 +1,112 @@
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\appsettings.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.exe
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.deps.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.runtimeconfig.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.AssemblyReference.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfoInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfo.cs
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.CoreCompileInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\scopedcss\bundle\Marvel_API.styles.css
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.CopyComplete
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\refint\Marvel_API.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.genruntimeconfig.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel_API\obj\Debug\net6.0\ref\Marvel_API.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\appsettings.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.exe
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.deps.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.runtimeconfig.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.AssemblyReference.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfoInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfo.cs
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\scopedcss\bundle\Marvel_API.styles.css
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.CopyComplete
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\refint\Marvel_API.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.genruntimeconfig.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel_API\obj\Debug\net6.0\ref\Marvel_API.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\refint\Marvel_API.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\appsettings.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.exe
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.deps.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.runtimeconfig.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel_API.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\scopedcss\bundle\Marvel_API.styles.css
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.CopyComplete
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\Marvel_API.genruntimeconfig.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel_API\obj\Debug\net6.0\ref\Marvel_API.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\refint\Marvel_API.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel_API\obj\Debug\net6.0\Marvel_API.pdb

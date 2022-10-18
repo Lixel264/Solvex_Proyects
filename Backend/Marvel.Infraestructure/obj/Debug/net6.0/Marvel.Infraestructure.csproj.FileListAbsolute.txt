@@ -1,0 +1,68 @@
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.deps.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfo.cs
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CopyComplete
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\refint\Marvel.Infraestructure.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\ref\Marvel.Infraestructure.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.deps.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfo.cs
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CopyComplete
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\refint\Marvel.Infraestructure.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\ref\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\refint\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.deps.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CopyComplete
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Infraestructure\obj\Debug\net6.0\ref\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.deps.json
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.csproj.CopyComplete
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\refint\Marvel.Infraestructure.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\Marvel.Infraestructure.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Infraestructure\obj\Debug\net6.0\ref\Marvel.Infraestructure.dll

@@ -1,0 +1,60 @@
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.deps.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.AssemblyReference.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfoInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfo.cs
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CoreCompileInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CopyComplete
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\refint\Marvel.Application.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Application\obj\Debug\net6.0\ref\Marvel.Application.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.deps.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.AssemblyReference.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfoInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfo.cs
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CopyComplete
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\refint\Marvel.Application.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Application\obj\Debug\net6.0\ref\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\refint\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.deps.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CopyComplete
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Application\obj\Debug\net6.0\ref\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\bin\Debug\net6.0\Marvel.Application.deps.json
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\bin\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\bin\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.csproj.CopyComplete
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\refint\Marvel.Application.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\Marvel.Application.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Application\obj\Debug\net6.0\ref\Marvel.Application.dll

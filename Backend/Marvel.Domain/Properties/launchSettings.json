@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Marvel.Domain": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\AdrianEstevez\\source\\Workspaces\\testing_source_control\\MvcMusicStore\\MvcMusicStore\\MvcMusicStore\\MvcMusicStore.csproj"
+    }
+  }
+}

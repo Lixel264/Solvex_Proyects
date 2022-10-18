@@ -1,0 +1,48 @@
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.deps.json
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.AssemblyReference.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfoInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfo.cs
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\refint\Marvel.Domain.dll
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\AdrianEstevez\Desktop\Personal Proyect\Marvel\Marvel.Domain\obj\Debug\net6.0\ref\Marvel.Domain.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.deps.json
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.AssemblyReference.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfoInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfo.cs
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\refint\Marvel.Domain.dll
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Downloads\Marvel\Marvel\Marvel.Domain\obj\Debug\net6.0\ref\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.deps.json
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\refint\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel\Marvel.Domain\obj\Debug\net6.0\ref\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.deps.json
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\bin\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.AssemblyReference.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfoInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.AssemblyInfo.cs
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\refint\Marvel.Domain.dll
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\Marvel.Domain.pdb
+C:\Users\stuar\Desktop\MARVEL\Marvel.Domain\obj\Debug\net6.0\ref\Marvel.Domain.dll
